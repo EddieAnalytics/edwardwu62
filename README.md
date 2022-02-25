@@ -5,7 +5,7 @@ I am interested in data analytics and how to use data to support business decisi
 # Portfolio
 This is the link to my portfolio, where I included some of the projects that I have completed:<br />
 
-https://edwardwu62.github.io/yixiewuportfolio/
+https://eddieanalytics.github.io/yixiewuportfolio/
 
 ## Contact Info: 
 edwardwu62@gmail.com
